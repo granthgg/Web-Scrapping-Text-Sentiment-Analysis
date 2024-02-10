@@ -27,6 +27,6 @@ The project aims to automate the extraction of textual data from specified URLs 
 
 ## Instructions for Running the Script
 
-1. **Dependencies:** Install all dependencies using pip:
+ **Dependencies:** Install all dependencies using pip:
    ```shell
    pip install beautifulsoup4 requests pandas nltk
